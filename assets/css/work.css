@@ -1,0 +1,18 @@
+#work{
+   text-align: center;
+   padding: 70px 7px;
+}
+
+.box-work{
+   display: inline-block;
+   width: 30%;
+}
+
+.box-work img{
+    max-width: 100%
+}
+
+.text-work{
+   font-size: 35px;
+   letter-spacing: 2px;
+}
