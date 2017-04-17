@@ -46,12 +46,13 @@ header{
    font-size: 14px;
 }
 
-
-
-
-
 .menu{
    padding: 14px 70px;
    overflow: auto;
+}
+
+footer{
+   text-align: center;
+   padding: 25px 7px;
 }
 

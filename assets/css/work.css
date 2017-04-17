@@ -5,7 +5,8 @@
 
 .box-work{
    display: inline-block;
-   width: 30%;
+   width: 25%;
+   margin: 25px;
 }
 
 .box-work img{
